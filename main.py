@@ -64,8 +64,8 @@ MAIN = [
     ],
     [
         InlineKeyboardButton(
-            text="ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ",
-            url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
+                text=_["ADD me baby"], url=f"https://t.me/{app.username}?startgroup=true"
+            
         ),
     ],
     [
