@@ -59,31 +59,31 @@ async def is_admins(chat_id: int):
 
 MAIN = [
     [
-        InlineKeyboardButton(text="ᴅᴇᴠᴇʟᴏᴘᴇʀ", url=f"https://t.me/{OWNER_USERNAME}"),
-        InlineKeyboardButton(text=" ꜱᴜᴘᴘᴏʀᴛ ", url=f"https://t.me/{SUPPORT_GRP}"),
+        InlineKeyboardButton(text="💘ᴅᴇᴠᴇʟᴏᴘᴇʀ💘", url=f"https://t.me/{OWNER_USERNAME}"),
+        InlineKeyboardButton(text="💘 ꜱᴜᴘᴘᴏʀᴛ 💘", url=f"https://t.me/{SUPPORT_GRP}"),
     ],
     [
         InlineKeyboardButton(
-                text=_["ADD me baby"], url=f"https://t.me/{app.username}?startgroup=true"
+                text=_["💘ADD me baby💘"], url=f"https://t.me/{app.username}?startgroup=true"
             
         ),
     ],
     [
-        InlineKeyboardButton(text="ʜᴇʟᴘ & ᴄᴍᴅs ", callback_data="HELP"),
+        InlineKeyboardButton(text="💘ʜᴇʟᴘ & ᴄᴍᴅs💘 ", callback_data="HELP"),
     ],
     [
-        InlineKeyboardButton(text="sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ", callback_data='source'),
-        InlineKeyboardButton(text=" ᴜᴘᴅᴀᴛᴇs ", url=f"https://t.me/{UPDATE_CHNL}"),
+        InlineKeyboardButton(text="💘sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ💘", callback_data='source'),
+        InlineKeyboardButton(text="💘 ᴜᴘᴅᴀᴛᴇs 💘", url=f"https://t.me/{UPDATE_CHNL}"),
     ],
 ]
 PNG_BTN = [
     [
          InlineKeyboardButton(
-                text=_["ADD me baby"], url=f"https://t.me/{app.username}?startgroup=true"
+                text=_["💘ADD me baby💘"], url=f"https://t.me/{app.username}?startgroup=true"
             
      ],
      [
-         InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ", 
+         InlineKeyboardButton(text="💘sᴜᴘᴘᴏʀᴛ💘", 
                               url=f"https://t.me/{SUPPORT_GRP}",
          ),
      ],
